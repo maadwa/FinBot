@@ -41,7 +41,7 @@ FinBot leverages the power of **NLP**, **embedding models**, and **vector databa
 
 Here's a quick look at FinBot in action:
 
-![FinBot Demo](asset\demo.gif)
+![FinBot Demo](asset/demo.gif)
 
 ## 📜 License
 
